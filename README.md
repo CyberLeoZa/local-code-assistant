@@ -57,20 +57,7 @@ python main.py
    - Debug errors
    - Suggest improvements
    - Generate code snippets
-
-## Project Structure
-
-```text
-local-code-assistant/
-│
-├── assets/
-│
-├── LocalCodeAssistant.py
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
+   - 
 ## Author
 
 Developed as a personal software engineering project to explore local AI-assisted development workflows.
